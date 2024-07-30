@@ -8,25 +8,25 @@
 
 <img align="right" src="https://github.com/edulab21/edulab21/blob/main/edulab21-capivara.png" width="300">
 
-## Main topics we work with...
+### Main topics we work with...
 - Social and emotional skills
 - Creativity and critical thinking
 - Professional interests
 - Motivation
 
-## How do we do this?
+### How do we do this?
 - We have an evidence-based approach
 - Our work focuses on methodological innovation in the fields of Psychology, Psychometrics, and Education.
 - 💻 We are fans of R!
 
 
-## Our recent products
+### Our recent products
 - 📚 
 
-## Our team
+### Our team
 
 
-## Contact information
+### Contact information
 - We actively seek diverse research collaborations with other institutions and individuals. Reach out to hear more information, let's talk!
 - 📫 How to reach me: --
 
