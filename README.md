@@ -5,7 +5,7 @@
 
 - 👋 Welcome to our research laboratory, established with the mission of advancing the frontiers of knowledge in educational science for the 21st century.
 
-<img align="right" src="[https://github.com/allisonhorst/allisonhorst/blob/main/horst_rtist.png](https://github.com/edulab21/edulab21/blob/main/edulab21-capivara.webp)" width="300">
+<img align="right" src="https://github.com/allisonhorst/allisonhorst/blob/main/horst_rtist.png" width="300">
 
 # Main topics we work with...
 - Social and emotional skills
