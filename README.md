@@ -6,7 +6,7 @@
 👋 Welcome to our research laboratory, established with the mission of advancing the frontiers of knowledge in educational science for the 21st century.
 
 
-<img align="right" src="https://github.com/edulab21/edulab21/blob/main/edulab21-capivara.png" width="300">
+<img align="right" src="https://github.com/edulab21-IAS/edulab21-ias/blob/main/edulab21-capivara.png" width="300">
 
 ### Main topics we work with...
 - Social and emotional skills
